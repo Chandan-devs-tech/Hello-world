@@ -15,12 +15,17 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -36,9 +41,38 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML5
-- CSS3
-- Linters
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>HTML5</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML Tutorial</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS3</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/Css/">CSS Tutorial</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Linters for HTML5/CSS3</summary>
+  <ul>
+    <li><a href="https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/">Linters Tutorial</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Setting up of Linters]**
+- **[Adding a text in <h1>tag]**
+- **[styling a text using class giving a appropriate color to it]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -67,6 +101,20 @@ To get a local copy up and running, follow these steps.
 - Clone this repository to your desired folder https://github.com/Chandan-devs-tech/Hello-world.git
 - Run the command npm install to install necessary dependencies contained in the package.json file
 
+### Install
+
+Install this project with these cmd:
+
+- cd Desktop/
+- git clone using repository link
+- cd Hello-world/
+- git branch branch_name
+- git checkout branch_name
+
+## Usage
+
+- To run the project, open it in the Live Server to see it live onto our Local Machine.
+
 ### Run tests
 
 - To run tests run :
@@ -87,6 +135,12 @@ To get a local copy up and running, follow these steps.
 - Twitter: @ChandanGuptaDev
 - LinkedIn: www.linkedin.com/in/chandangupta-devs
 - Slack: @Chandan Gupta
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[To Add more styling to the page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
