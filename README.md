@@ -69,7 +69,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Setting up of Linters]**
-- **[Adding a text in <h1>tag]**
+- **[Adding a text in h1 tag]**
 - **[styling a text using class giving a appropriate color to it]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
